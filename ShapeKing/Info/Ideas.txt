@@ -1,0 +1,39 @@
+Juego de rol en vida real
+Varias clases
+Posiciones en peleas
+Recoger armas y objetos utiles por el mundo
+Luchar contra enemigos solos o con amigos o gente cercana 
+Usar nfc o codigo qr para juntar el poder e ir en grupo
+Personalidad de cada jugador segun que acciones y eventos de texto con decisiones
+Skins y accesorios en combate o en mapa
+Limite de luchas diarias
+Experiencia y monedas de juego que se obtienen luchando y cumpliendo objetivos
+Mejorar casa, castillo o ciudad incluso para defensa contra otros jugadores de otras zonas(Maaaas adelante)
+El tiempo de recogida entre objeto y objeto dependera del tiempo que tomaria ir corriendo a dicha zona para no usar coche
+Clanes con posibilidad de crear un fuerte/bunker en zonas especificas.
+Posibilidad de votar al MVP de la batalla o del grupo.
+Chat presencial (1km radio ej)
+Las peleas usaran habilidades y ataques de armas con combos que se haran haciendo formas especificas con el dedo en la pantalla o resolviendo runas para magos...etc
+Para no petar los servers los grupos pueden usar p2p para Luchar
+Usar las opiniones de los demas jugadores sobre un jugador para dar ventajas a dicho jugador para que la gente no sea japuta.
+Posibilidad de modo invisible para que si no quiere alguien ser visto pueh que no lo sea pero que pague por la pocion de invisibilidad o que la encuentre en algun lao 
+Para recoger ciertos objetos que se necesite algun acertijo, algun reto y si se falla que pueda haber penalizaciones.
+Sorpresas por el camino como bandidos o dinero por el suelo mismamente.
+
+
+
+Cosas complicadas para hacer en un futuro:
+
+Posibilidad de ganar dinero usando tiendas de verdad que puedan vender en el juego algunos objetos (vaya que ElCaracolKiskol pague X€ y ponemos su tienda como objetivo con un
+codigo qr daaah).
+
+
+
+
+
+
+
+
+Inspirarse en:
+Pokemon Go 
+Life is feudal
